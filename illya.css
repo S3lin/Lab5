@@ -1,0 +1,171 @@
+body {
+    background: rgb(250, 248, 249);
+    display: block;
+}
+
+.Basis {
+    width: 1000px;
+    background-color: rgb(193, 153, 226);
+    border-radius: 10px;
+    margin: 1px auto;
+    display: grid;
+    grid-template-columns: 250px 750px;
+}
+
+.column1 {
+    width: 245px;
+    height: 800px;
+    background: #be40e8;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+.Line {
+    width: 5%;
+    margin-top: 12px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.My_foto {
+    width: 60%;
+    margin-top: 75px;
+    border-radius: 5%;
+}
+
+.My_name {
+    font-size: 170%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.My_work {
+    width: 50%;
+    height: 2%;
+    color: white;
+    background: #480747;
+    display: inline-block;
+    padding: 3% 2%;
+    border-radius: 10px;
+    font-family: 'Arial';
+    font-size: 85%;
+    margin-top: auto;
+    margin-bottom: 17px;
+}
+
+#contact{
+    width: 8%;
+    padding: 5%;
+}
+
+.Informations {
+    margin: 0 auto;
+    width: 70%;
+    text-align: left;
+    font-family: 'Arial';
+}
+#advice {
+    width: 10%;
+    padding: 2%;
+}
+
+.download {
+    background-color: #480747 ;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 3% 5%;
+    margin-top: 10px;
+    height: 50px;
+    width: 170px;
+    border-radius: 5px;
+}
+
+#icondownload {
+    width: 14%;
+    margin-right: 12px;
+}
+
+Label {
+    display: inline-block;
+    margin: 20px 0;
+    width: 92px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+Input {
+    display: none;
+}
+
+.Top_button {
+    margin-left: 240px;
+    text-decoration: none; 
+    color: #480747;
+}
+
+#top_button_1 {
+    color: white;
+    background: #480747;
+    cursor: default; 
+}
+
+#top_button_2 { 
+    text-decoration: none; 
+    color: #480747;
+}
+
+
+
+.Text {
+    width: 700;
+    margin: 5px 20px;
+    color: #480747;
+    font-family: 'Arial';
+}
+
+.Text_2 {
+    margin-left: 20px;
+    font-size: 25px;
+    font-family: 'Arial';
+}
+
+.Title {
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.Bottom_basis {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    width: 90%;
+    margin: 0 auto;
+}
+
+#Bloc {
+    width: 90%;
+    margin: 10px auto;
+    border: 3px solid #480747;
+    border-radius: 10px;
+    }
+
+
+  
+#txt {
+    color: #480747;
+    font-family: "Arial";
+}
+
+#txt_1 {
+    font-family: "Arial";
+}
+
+#icon_2 {
+    margin-left: 42%;
+  }
